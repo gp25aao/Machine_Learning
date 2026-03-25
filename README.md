@@ -16,7 +16,7 @@ The objective is not only to evaluate performance but to understand how BN chang
 
 ---
 
-## 📊 Dataset
+##  Dataset
 The project uses the CIFAR-10 dataset:
 
 - 50,000 training images
